@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.section-header{
+    display: flex;
+    background-color: #f8bec9;
+    height: 100vh;
+    align-items: center;
+    justify-content: space-around
+  
+}
+
+.right-div{
+   
+
+}
+
+.left-div{
+   margin-left: ;
+}
+
+.header-img{
+      width: 405px;
+      margin-top: 100px;
+     
+}
+
+.header-title{
+   font-size: 70px;
+    font-weight: 800;
+}
+
+.header-discription{
+    font-size: 20px;
+}
+
+.header-button{
+   background-color: #eb1f4b;
+   padding: 5px 10px;
+   text-align: center;
+   color: white;
+   font-size: 20px;
+   font-weight: bold;
+}
