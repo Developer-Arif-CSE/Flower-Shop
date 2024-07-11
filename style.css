@@ -43,4 +43,205 @@
    color: white;
    font-size: 20px;
    font-weight: bold;
+   border: none;
+   border-radius: 5px;
+}
+
+.feature-title{
+   text-align: center;
+   margin-top: 60px;
+   font-size: 40px;
+}
+
+.title-description{
+    text-align: center;
+}
+
+.f-images{
+    width: 300px;
+}
+
+.image-description{
+ 
+
+}
+
+.feature-images{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    align-items: center;
+ 
+ 
+    
+}
+
+
+.first-image{
+   background-color: #cfbac4;
+   margin-right: 25px;
+   margin-left: 25px;
+  
+   
+}
+
+
+.second-image{
+  background-color: #c1e9eb;
+  width: 300px;
+  margin-right: 25px;
+ 
+ 
+}
+
+.third-image{
+    background-color: #b7cca1;
+}
+
+
+.feature-section{
+   
+}
+
+.image-titles{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: center;
+  
+   
+}
+.h11{
+    margin-left: 300px;
+
+}
+
+.h22{
+    margin-right: 0px;
+}
+
+.h33{
+    margin-right: 250px;
+}
+
+.order-section{
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+   margin-top: 40px;
+    margin-left: 195px;
+    margin-right: 10px;
+    border-radius: 10px;
+    width: 990px;
+    height:200px;
+    align-items: center;
+   
+}
+
+.d{
+    width: 100px;
+    margin-inline: 90px;
+}
+
+.l{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 15px;
+    color: white;
+}
+
+.discount-section{
+    display: flex;
+    width: 1400px;
+    height: 400px;
+    background-color: #b7cca1;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.dd-image{
+    width: 200px;
+    margin-top: 50px;
+}
+
+.left-discount{
+    margin-right: 150px;
+}
+
+.dh-1{
+    font-size: 45px;
+}
+
+.lll{
+    font-size: 20px;
+}
+
+.instagram-title{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.h11-i{
+   font-size: 45px;
+}
+
+.insta-images{
+ display: flex;
+ margin-top: 25px;
+ justify-content: center;
+ align-items: center;
+}
+
+.iiii-images{
+    width: 200px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.subscribe-details{
+    margin-top: 50px;
+    width: 1000px;
+    height: 300px;
+    background-color: #78a1a3;
+    margin-left: 185px;
+    background-image: url("./images/Rectangle\ 9.png");
+}
+
+.h11-ii{
+    text-align: center;
+   padding-top: 50px;
+   font-size: 45px;
+
+
+}
+.h11-iii{
+   text-align: center;
+}
+
+.details-information{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    align-items: center;
+   
+
+}
+
+.email-i{
+    padding: 5px 150px;
+    text-align: left;
+   
+    font-size: 15px;
+   margin-right: 15px;
+}
+
+
+.footer-container{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 200px;
+    padding-top: 100px;
+    margin-top: 50px;
 }
